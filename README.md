@@ -10,6 +10,8 @@ pip install carbonwatcher
 [![Python](https://img.shields.io/pypi/pyversions/carbonwatcher)](https://pypi.org/project/carbonwatcher/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+**Documentation:** https://carbonwatcher-docs.vercel.app
+
 ---
 
 ## Why CarbonWatcher?
